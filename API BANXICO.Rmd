@@ -14,8 +14,8 @@ LIBRERIAS
 library(siebanxicor) # API DE BANXICO
 library(tidyverse)   # MANIPULACION DE DATOS
 library(lubridate)   # FECHA Y HORA
-library(ggplot2)     #GRAFICOS
-library(plotly)      #GRAFICO DINAMICO 
+library(ggplot2)     # GRAFICOS
+library(plotly)      # GRAFICO DINAMICO 
 ```
 # MANIPULACION DE DATOS 
 
