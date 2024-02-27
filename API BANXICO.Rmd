@@ -13,7 +13,7 @@ LIBRERIAS
 ```{r}
 library(siebanxicor) # API DE BANXICO
 library(tidyverse)   # MANIPULACION DE DATOS
-library(lubridate)   # Fechas y horas 
+library(lubridate)   # FECHA Y HORA
 library(ggplot2)     #GRAFICOS
 library(plotly)      #GRAFICO DINAMICO 
 ```
