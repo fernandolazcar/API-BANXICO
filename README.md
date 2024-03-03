@@ -1,11 +1,6 @@
 # API-BANXICO
-Documento en que detalla el procedimiento para el uso de la API esta en mi pagina de Rpubs [aqui](https://rpubs.com/FernandoLazCardenas/1153954)
+Documento en que detalla el procedimiento para el uso de la API esta en mi pagina de Rpubs [aqui](https://rpubs.com/FernandoLazCardenas/1153954), para la generacion del token y uso para el portal de BANXICO [aqui](https://www.banxico.org.mx/SieAPIRest/service/v1/token).
 
-
-
-
-
-generacion del token : https://www.banxico.org.mx/SieAPIRest/service/v1/token
 
 
 
