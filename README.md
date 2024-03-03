@@ -1,6 +1,6 @@
 # API-BANXICO
-uso de la herramienta con R 
-https://rpubs.com/FernandoLazCardenas/1153954
+Documento en que detalla el procedimiento para el uso de la API esta en mi pagina de Rpubs [aqui](https://rpubs.com/FernandoLazCardenas/1153954)
+
 
 
 
